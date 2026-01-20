@@ -1,0 +1,79 @@
+[
+  {
+    "nombre": "Jacket with Pierced Brass Eyes",
+    "precio": 8400,
+    "imagen": "https://schiaparelli.com/cdn/shop/files/packshot_23PEJA08WO001030_027_001.jpg?v=1735750365&width=828",
+    "descripcion": "Chaqueta de lana negra adornada con los característicos ojos perforados en latón dorado. Silueta estructurada y hombros marcados, un sello icónico de Schiaparelli.",
+    "type": "Ropa",
+    "miniaturas": [
+      "https://schiaparelli.com/cdn/shop/files/zoom_23PEJA08WO001030_02.jpg?v=1735750365",
+      "https://schiaparelli.com/cdn/shop/files/zoom_23PEJA08WO001030_03.jpg?v=1735750365"
+    ]
+  },
+  {
+    "nombre": "Trompe-L’Œil Ribbed Jumper",
+    "precio": 3100,
+    "imagen": "https://schiaparelli.com/cdn/shop/files/packshot_23PEKN02CO001000_019_001.jpg?v=1735750365&width=828",
+    "descripcion": "Suéter de punto acanalado con efecto trompe-l'œil que resalta la silueta. Un básico moderno con estética surrealista.",
+    "type": "Ropa",
+    "miniaturas": [
+      "https://schiaparelli.com/cdn/shop/files/zoom_23PEKN02CO001000_02.jpg",
+      "https://schiaparelli.com/cdn/shop/files/zoom_23PEKN02CO001000_03.jpg"
+    ]
+  },
+  {
+    "nombre": "Sculpted Velvet Dress",
+    "precio": 12900,
+    "imagen": "https://schiaparelli.com/cdn/shop/files/packshot_21PEDR01VE001900_001_001.jpg?v=1735750365&width=828",
+    "descripcion": "Vestido largo de terciopelo negro con escote escultórico inspirado en las formas anatómicas de la Maison. Elegante y dramático.",
+    "type": "Ropa",
+    "miniaturas": [
+      "https://schiaparelli.com/cdn/shop/files/zoom_21PEDR01VE001900_02.jpg",
+      "https://schiaparelli.com/cdn/shop/files/zoom_21PEDR01VE001900_03.jpg"
+    ]
+  },
+  {
+    "nombre": "Brushed Wool Corset Coat",
+    "precio": 7600,
+    "imagen": "https://schiaparelli.com/cdn/shop/files/packshot_22PECO01WO001030_001_001.jpg?v=1735750365&width=828",
+    "descripcion": "Abrigo de lana cepillada con estructura tipo corsé que marca la cintura. Mezcla perfecta de elegancia y arquitectura.",
+    "type": "Ropa",
+    "miniaturas": [
+      "https://schiaparelli.com/cdn/shop/files/zoom_22PECO01WO001030_02.jpg",
+      "https://schiaparelli.com/cdn/shop/files/zoom_22PECO01WO001030_03.jpg"
+    ]
+  },
+  {
+    "nombre": "Embroidered Organza Blouse",
+    "precio": 4500,
+    "imagen": "https://schiaparelli.com/cdn/shop/files/packshot_22PEBL02OR001000_027_001.jpg?v=1735750365&width=828",
+    "descripcion": "Blusa de organza transparente bordada con aplicaciones surrealistas doradas. Aire etéreo con detalles escultóricos.",
+    "type": "Ropa",
+    "miniaturas": [
+      "https://schiaparelli.com/cdn/shop/files/zoom_22PEBL02OR001000_02.jpg",
+      "https://schiaparelli.com/cdn/shop/files/zoom_22PEBL02OR001000_03.jpg"
+    ]
+  },
+  {
+    "nombre": "Tailored Crepe Pants",
+    "precio": 2600,
+    "imagen": "https://schiaparelli.com/cdn/shop/files/packshot_23PEPA01CR001030_001_001.jpg?v=1735750365&width=828",
+    "descripcion": "Pantalón de crepé negro de corte recto y cintura alta. Minimalista y atemporal.",
+    "type": "Ropa",
+    "miniaturas": [
+      "https://schiaparelli.com/cdn/shop/files/zoom_23PEPA01CR001030_02.jpg",
+      "https://schiaparelli.com/cdn/shop/files/zoom_23PEPA01CR001030_03.jpg"
+    ]
+  },
+  {
+    "nombre": "Golden Keyhole Sweater",
+    "precio": 3800,
+    "imagen": "https://schiaparelli.com/cdn/shop/files/packshot_23PEKN09WO001000_019_001.jpg?v=1740210636&width=828",
+    "descripcion": "Sweater de lana fina con un icónico recorte keyhole reforzado en latón dorado. Un clásico moderno de la Maison.",
+    "type": "Ropa",
+    "miniaturas": [
+      "https://schiaparelli.com/cdn/shop/files/zoom_23PEKN09WO001000_02.jpg",
+      "https://schiaparelli.com/cdn/shop/files/zoom_23PEKN09WO001000_03.jpg"
+    ]
+  }
+]
